@@ -1,6 +1,6 @@
 # Microwave_book
-Micowave theory and applications
-instalarea programului „Microwave Solutions” cuprinde următoarele trei etape:
+
+Instalarea programului „Microwave Solutions” cuprinde următoarele trei etape:
 •	Transferul fişierelor de instalare pe  mediul de stocare local (SSD/HDD). 
 În cadrul acestei etape se accesează programul stocat în cloud la adresa https://github.com/scantaragiu/Microwave_book.git, de unde se copiază și se descarcă pe mediul de stocare local fișierele stocate în depozitul (repository) „Microwave_book”. Acest depozit conţine toate fişierele necesare pentru a efectua instalarea și rularea programului. Pentru descărcarea fișierelor se va da click pe butonul Code și se va alege opțiunea Download ZIP. După descărcarea cu succes a arhivei, aceasta se va dezarhiva în directorul în care se dorește instalarea aplicației de pe mediul de stocare local.
 •	Instalarea bibliotecii run-time (Matlab Component Runtime sau MCR). 
